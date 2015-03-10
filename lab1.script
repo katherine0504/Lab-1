@@ -1,0 +1,12 @@
+Script started on 2015年03月10日 (週二) 22時46分40秒
+]0;F74036069@2015cpp: ~F74036069@2015cpp:~$ whoami; pwd
+F74036069
+/home/F74036069
+]0;F74036069@2015cpp: ~F74036069@2015cpp:~$ git config -l
+user.name=katherine0504
+user.email=F74036069@ncku.edu.tw
+]0;F74036069@2015cpp: ~F74036069@2015cpp:~$ git d[Kclone https://github.c om/<your github account>/lab1.git[C[C[C[C[C[C[C[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[C[C[C[C[C[C[C[1P/lab1.git[C[C[C[C[C[C[1P/lab1.git[C[C[C[C[C[1P/lab1.git[C[C[C[C[1P/lab1.git[C[C[Ck/lab1.git[C[C[C[Ca/lab1.git[C[C[C[C[Ct/lab1.git[C[C[C[C[C[Ch/lab1.git[C[C[C[C[C[C[Ce/lab1.gitr/lab1.giti/lab1.gitn/lab1.gite/lab1.git0/lab1.git5/lab1.git0/lab1.git4/lab1.git[C[C[C[C[C[C[C[C[C
+fatal: destination path 'lab1' already exists and is not an empty directory.
+]0;F74036069@2015cpp: ~F74036069@2015cpp:~$ [K]0;F74036069@2015cpp: ~F74036069@2015cpp:~$ [K]0;F74036069@2015cpp: ~F74036069@2015cpp:~$ exit
+
+Script done on 2015年03月10日 (週二) 22時48分31秒
